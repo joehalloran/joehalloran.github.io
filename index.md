@@ -1,15 +1,42 @@
-## Jan
+## January
 
-## Feb
+- 7th: Reuben
+
+## February
 
 ## March 
 
 - 15th: Tom's birthday
 
-### Jekyll Themes
+## April
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joehalloran/joehalloran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## May
 
-### Support or Contact
+- 31st: Margaret's birthday
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## June
+
+## July
+
+- 6th: Mum's birthday
+
+## August
+
+- 16th: Tim's birthday
+- 18th: Leo's birthday
+- 19th Isla's birthday
+
+## September
+
+## October
+
+- 12th: Dexter
+
+## November
+
+- 5th: Ellie's birthday
+- 7th: Bernie's birtday
+
+## December
+
+- 15th: Eugene's birthday
