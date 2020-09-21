@@ -1,5 +1,3 @@
-# Dates
-
 ## Jan
 
 ## Feb
