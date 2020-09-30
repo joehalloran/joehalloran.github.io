@@ -12,6 +12,8 @@
 
 ## May
 
+- 21st: Samuel's birthday
+- 24th: Wedding anniversary
 - 31st: Margaret's birthday
 
 ## June
@@ -24,13 +26,14 @@
 
 - 16th: Tim's birthday
 - 18th: Leo's birthday
-- 19th Isla's birthday
+- 19th Isla's & Nye's birthday
 
 ## September
 
 ## October
 
 - 12th: Dexter
+- 15th: Katie
 
 ## November
 
