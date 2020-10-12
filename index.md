@@ -32,7 +32,7 @@
 
 ## October
 
-- 12th: Dexter
+- 11th: Dexter
 - 15th: Katie
 
 ## November
