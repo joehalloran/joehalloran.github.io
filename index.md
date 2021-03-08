@@ -7,8 +7,10 @@
 ## March 
 
 - 15th: Tom's birthday
+- 27th: Ed's birthday
 
 ## April
+- 3rd: Ben's birthday
 
 ## May
 
